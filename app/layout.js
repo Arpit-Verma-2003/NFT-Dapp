@@ -6,7 +6,6 @@ const inter = Inter({ subsets: ['latin'] })
 export const metadata = {
   title: 'NFT_by_ARPIT',
   description: 'nft by arpit verma',
-}',
 }
 
 export default function RootLayout({ children }) {
